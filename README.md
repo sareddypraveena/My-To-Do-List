@@ -232,7 +232,9 @@ http://localhost:8080
 ---
 ## Output
 
-![Output Screenshot](Screenshot 2026-07-28 162854.png)
-![Output Screenshot](Screenshot 2026-07-28 220715.png)
+![Output Screenshot](2.png)
+
+#
+![Output Screenshot](3.png)
 
 ⭐ If you like this project, don't forget to Star this repository.
