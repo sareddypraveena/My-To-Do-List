@@ -169,7 +169,8 @@ DELETE /todos/{id}
 
 ## ✏️ Update Task
 
-![Update Task](Output/UpdateTask.png)
+![Update Task](update.png)
+
 
 ---
 
