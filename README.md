@@ -184,7 +184,7 @@ DELETE /todos/{id}
 
 ## 🗄️ Database History Table
 
-![Database](Output/Database.png)
+![Database](history.png)
 
 ---
 
