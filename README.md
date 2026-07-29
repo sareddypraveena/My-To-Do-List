@@ -170,6 +170,7 @@ DELETE /todos/{id}
 ## ✏️ Update Task
 
 ![Update Task](update.png)
+![Database Updated Task](updatetask.png)
 
 
 ---
