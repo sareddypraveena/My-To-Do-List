@@ -177,7 +177,7 @@ DELETE /todos/{id}
 
 ## ❌ Delete Task
 
-![Delete Task](Output/DeleteTask.png)
+![Delete Task](delete.png)
 
 ---
 
