@@ -149,7 +149,7 @@ DELETE /todos/{id}
 
 ## 👤 User Registration
 
-![Register](Output/Register.png)
+![Register](registerpage.png)
 
 ---
 
