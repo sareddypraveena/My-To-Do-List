@@ -150,6 +150,7 @@ DELETE /todos/{id}
 ## 👤 User Registration
 
 ![Register](registerpage.png)
+![Database User Register Table](mysqlregister.png)
 
 ---
 
