@@ -178,6 +178,7 @@ DELETE /todos/{id}
 ## ❌ Delete Task
 
 ![Delete Task](delete.png)
+![Database Delete Task](databasedelete.png)
 
 ---
 
