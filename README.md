@@ -162,7 +162,7 @@ DELETE /todos/{id}
 
 ## ➕ Create Task
 
-![Create Task](Output/CreateTask.png)
+![Create Task](createtask.png)
 
 ---
 
