@@ -1,18 +1,20 @@
-# 📝 My To-Do List Application
-
+       -------------------------
+# 📝 |My To-Do List Application|
+      --------------------------
 A full-stack **To-Do List Management System** developed using **Spring Boot, MySQL, HTML, CSS, and JavaScript**. This application allows users to register, log in, manage their daily tasks, and maintain task history and login history.
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
+      --------
 
-### 👤 User Module
+### 👤 User Module:
 - User Registration
 - User Login
 - User Logout
 - Login History Tracking
 
-### ✅ Task Module
+### ✅ Task Module:
 - Create Task
 - View Tasks
 - Update Task
@@ -27,7 +29,7 @@ A full-stack **To-Do List Management System** developed using **Spring Boot, MyS
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 
 ### Frontend
 - HTML5
@@ -50,7 +52,7 @@ A full-stack **To-Do List Management System** developed using **Spring Boot, MyS
 - Git
 - GitHub
 
----
+---------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
@@ -76,7 +78,7 @@ My-To-Do-List
 └── README.md
 ```
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 Database Tables
 
@@ -85,7 +87,7 @@ My-To-Do-List
 - todo_history
 - user_login_history
 
----
+---------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 REST API Endpoints
 
@@ -137,7 +139,7 @@ PUT /todos/{id}
 DELETE /todos/{id}
 ```
 
----
+------------------------------------------------------------------------------------------------------------------------
 
 # 📸 Project Screenshots
 
@@ -145,27 +147,27 @@ DELETE /todos/{id}
 
 ![Home Page](homepage.png)
 
----
+------------------------------------------------------------------------------------------------------------------------
 
 ## 👤 User Registration
 
 ![Register](registerpage.png)
 ![Database User Register Table](mysqlregister.png)
 
----
+------------------------------------------------------------------------------------------------------------------------
 
 ## 🔐 User Login
 
 ![Login](loginpage.png)
 
----
+------------------------------------------------------------------------------------------------------------------------
 
 ## ➕ Create Task
 
 ![Create Task](createtask.png)
 ![Database Create Task](databasecreatetask.png)
 
----
+------------------------------------------------------------------------------------------------------------------------
 
 ## ✏️ Update Task
 
@@ -173,26 +175,18 @@ DELETE /todos/{id}
 ![Database Updated Task](updatetask.png)
 
 
----
+-------------------------------------------------------------------------------------------------------------------------
 
 ## ❌ Delete Task
 
 ![Delete Task](delete.png)
 ![Database Delete Task](databasedelete.png)
 
----
+--------------------------------------------------------------------------------------------------------------------------
 
 ## 🗄️ Database History Table
 
 ![Database](history.png)
-
----
-
-## 📬 API Testing (Postman)
-
-![Postman](Output/Postman.png)
-
----
 
 # ▶️ How to Run
 
@@ -226,15 +220,17 @@ http://localhost:8080
 
 ---
 
-# 👩‍💻 Developed By
+# 👩‍💻 Developed By:
 
-**Praveena Sareddy**
-
+  -------------------
+|**Praveena Sareddy**|
+  ------------------
+  
 - Java Developer
 - Spring Boot Developer
 - Full Stack Java Learner
 
----
+---------------------------------------------------------------------------------------------------------------------
 ## Output
 
 ![Output Screenshot](2.png)
