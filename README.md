@@ -143,7 +143,7 @@ DELETE /todos/{id}
 
 ## 🏠 Home Page
 
-![Home Page](Output/HomePage.png)
+![Home Page](homepage.png)
 
 ---
 
