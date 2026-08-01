@@ -187,7 +187,6 @@ DELETE /todos/{id}
 ## 🗄️ Database History Table
 
 ![Database](history.png)
-![api's testing video](api's testing video.mp4)
 
 # ▶️ How to Run
 ### Clone Repository
